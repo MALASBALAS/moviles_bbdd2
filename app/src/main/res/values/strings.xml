@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BBDD</string>
+    <string name="guardar">Guardar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="tel_fonos_separados_por_coma">Teléfonos (separados por coma)</string>
+</resources>
